@@ -19,7 +19,7 @@ import java.text.SimpleDateFormat
 import java.util.*
 
 /**
- * by nightdream 定制 +QQ 2827769469
+ * by nightdream 定制 +QQ 2827769469 修改司马
  */
 @ElementInfo(name = "Session Stats")
 class SessionStast(x: Double = 10.0, y: Double = 10.0, scale: Float = 1F) : Element(x, y, scale) {
